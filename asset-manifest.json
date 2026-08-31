@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Smart-Campus-Issue-Reporting/static/css/main.b20a511c.css",
+    "main.js": "/Smart-Campus-Issue-Reporting/static/js/main.970c929b.js",
+    "index.html": "/Smart-Campus-Issue-Reporting/index.html",
+    "main.b20a511c.css.map": "/Smart-Campus-Issue-Reporting/static/css/main.b20a511c.css.map",
+    "main.970c929b.js.map": "/Smart-Campus-Issue-Reporting/static/js/main.970c929b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20a511c.css",
+    "static/js/main.970c929b.js"
+  ]
+}
