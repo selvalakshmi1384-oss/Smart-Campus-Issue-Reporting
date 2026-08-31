@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Smart-Campus-Issue-Reporting/static/css/main.b20a511c.css",
-    "main.js": "/Smart-Campus-Issue-Reporting/static/js/main.970c929b.js",
+    "main.js": "/Smart-Campus-Issue-Reporting/static/js/main.2fff4be7.js",
     "index.html": "/Smart-Campus-Issue-Reporting/index.html",
     "main.b20a511c.css.map": "/Smart-Campus-Issue-Reporting/static/css/main.b20a511c.css.map",
-    "main.970c929b.js.map": "/Smart-Campus-Issue-Reporting/static/js/main.970c929b.js.map"
+    "main.2fff4be7.js.map": "/Smart-Campus-Issue-Reporting/static/js/main.2fff4be7.js.map"
   },
   "entrypoints": [
     "static/css/main.b20a511c.css",
-    "static/js/main.970c929b.js"
+    "static/js/main.2fff4be7.js"
   ]
 }
